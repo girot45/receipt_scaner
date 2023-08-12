@@ -1,0 +1,12 @@
+HOST = 'irkkt-mobile.nalog.ru:8888'
+DEVICE_OS = 'iOS'
+CLIENT_VERSION = '2.9.0'
+DEVICE_ID = '7C82010F-16CC-446B-8F66-FC4080C66521'
+ACCEPT = '*/*'
+USER_AGENT = 'billchecker/2.9.0 (iPhone; iOS 13.6; Scale/2.00)'
+ACCEPT_LANGUAGE = 'ru-RU;q=1, en-US;q=0.9'
+CLIENT_SECRET = 'IyvrAbKt9h/8p6a7QPh8gpkXYQ4='
+OS = 'Android'
+PHONE = "+79539331914"
+INPUT_DATE_FORMATE = "%Y-%m-%dT%H:%M:%S"
+OUTPUT_DATE_FORMATE = "%d-%m-%Y %H:%M"
